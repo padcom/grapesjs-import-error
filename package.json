@@ -1,0 +1,19 @@
+{
+  "name": "grapesjs-import-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "grapesjs": "0.21.6",
+    "typescript": "5.0.4",
+    "vite": "4.4.9"
+  }
+}
